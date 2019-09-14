@@ -1,0 +1,41 @@
+
+
+h1 {
+  font-family: hwt-arabesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;}
+h2 {
+  font-family: hwt-arabesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:40px;}
+div.label{
+  font-family: monospace;
+  color: #3D215B;
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+p{
+  color:white;
+}
+p.intro{
+  font-family: 'Rubik', sans-serif;
+  font-style: italic;
+}
+p.chorus{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 700;
+}
+p.verse{
+  font-family: 'Rubik', sans-serif;
+}
+p.bridge{
+  font-family: 'Rubik', sans-serif;
+}
+p.outro{
+  font-family: 'Rubik', sans-serif;
+  font-style: italic;
+}
+footer{
+  font-family: 'Rubik', sans-serif;
+}
