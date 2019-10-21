@@ -1,0 +1,147 @@
+body{
+  width:375px;
+  margin-top:0px;
+  margin-left:0px;
+}
+.openimage {
+  height:282px;
+  width: 375px;
+  background-image: url("../images/1.png");
+}
+.title{
+  margin-left:75px;
+  margin-right:75px;
+  margin-top: 21px;
+}
+.title h1{
+  font-family: macho, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  width:225px;
+  line-height:1.1;
+  font-size:26px;
+  margin-bottom:0px;
+}
+.title p {
+  font-family: macho, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  color:#CA8B7B;
+  margin-top:7px;
+  text-align: right;
+  padding-right:9px;
+  font-size:15px;
+}
+.info {
+  background-color:#CA8B7B;
+  width:295px;
+  height:73px;
+  margin:auto;
+  border-radius:16px;
+}
+.info p{
+  display:inline-block;
+  font-family: macho, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size:11px;
+  color:white;
+  padding-left:24px;
+  padding-top:14px;
+  margin-top:0;
+  margin-bottom:0px;
+}
+.info div{
+  display:inline-block;
+  font-family: macho, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:white;
+  font-size:15px;
+  padding-top:3px;
+  padding-left:24px;
+  margin-top:0px;
+}
+.info .cooktime {
+  padding-left:35px;
+}
+.info .servingsize {
+  padding-left:20px;
+}
+.ingredients {
+  margin-left:50px;
+  margin-right:48px
+}
+.ingredients h1{
+  font-family: macho, sans-serif;
+  font-weight: 700;
+  font-size:16px;
+  margin-top:30px;
+  margin-bottom:20px;
+  color:#CA8B7B;
+}
+.ingredients p{
+  margin-top:0px;
+  margin-bottom:0px;
+  font-family: macho, sans-serif;
+  font-weight: 400;
+  font-size:15px;
+  line-height:21px;
+}
+.ingredients div{
+  font-family: macho, sans-serif;
+  font-weight: 200;
+  font-size:13px;
+  line-height:16px;
+  margin-top:13px;
+}
+
+.instructions h1{
+  font-family: macho, sans-serif;
+  font-weight: 700;
+  font-size:16px;
+  margin-top:30px;
+  margin-bottom:5px;
+  color:#CA8B7B;
+  margin-left:50px;
+}
+.instructions div{
+  display:inline-block;
+  margin-bottom:10px;
+  position:relative;
+  margin-top:20px;
+}
+.instructions img{
+  margin-left:40px;
+}
+.instructions span{
+  font-family: azo-sans-web, sans-serif;
+  font-weight: 200;
+  font-size:30px;
+  color:#CA8B7B;
+  position:absolute;
+  margin-left:32px;
+  margin-top:-5px;
+}
+.instructions .ten {
+  margin-left:16px;
+}
+.instructions p{
+  font-family: macho, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:15px;
+  line-height:18px;
+  margin-bottom:0px;
+  margin-right: 32px;
+  padding-left:70px;
+  margin-top:-.001px;
+}
+.instructions img {
+  width:294px;
+  height:183px;
+  border-radius:16px;
+  /* margin-left:40px; */
+  margin-right:40px;
+  margin-top:25px;
+}
