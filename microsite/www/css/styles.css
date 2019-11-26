@@ -1,0 +1,102 @@
+body {
+  background-color: #E0D8CE;
+}
+.header span {
+  display:inline-block;
+  color: #997951;
+  font-family: alegreya, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:25px;
+  padding-left:25px;
+  padding-right:25px;
+}
+.header a {
+  color: #997951;
+  text-decoration:none;
+}
+.header {
+  padding-top:30px;
+  margin-left:20px;
+  margin-right:20px;
+}
+.header div{
+  float:right;
+}
+#home .introphoto img {
+  margin:auto;
+  display:block;
+}
+#home .introphoto {
+  margin-top:50px;
+}
+#home .intro img{
+  float:left;
+  margin-left:15%;
+  display:block;
+  margin-top:50px;
+}
+#home .intro div{
+  color: #997951;
+  font-family: alegreya, serif;
+  font-weight: 400;
+  font-size:30px;
+  display:inline-block;
+  margin-left:15%;
+  margin-right:15%;
+}
+#home .intro{
+  margin-bottom: 80px;
+}
+#home .homefour img {
+  float:left;
+  padding-right:10px;
+  margin-left:15%;
+}
+#home .homefour div {
+  display:inline-block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top:125px;
+}
+#home .homefour div p {
+  float:right;
+  width:35%;
+  color: #997951;
+  font-family: alegreya, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:30px;
+  margin-right:15%;
+}
+#home .homefive img {
+  float:right;
+  padding-right:10px;
+  margin-right:15%;
+}
+#home .homefive div {
+  display:inline-block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top:125px;
+}
+#home .homefive div p {
+  float:left;
+  width:35%;
+  color: #997951;
+  font-family: alegreya, serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:30px;
+  margin-left:15%;
+}
+#home .homefive {
+  margin-bottom: 100px;
+}
+@media (max-width: 1450px) {
+  #home .homethree img{
+
+  }
+#home {
+    background-color: #E0D8CE;
+  }
